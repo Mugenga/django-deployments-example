@@ -25,7 +25,7 @@ SECRET_KEY = 'qr7_e0kk9n@rf$k1!lfu%hyc=7lx&u2y67rd=&=xi0cukz%qvj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://mugenga.pythonanywhere.com/']
 
 
 # Application definition
